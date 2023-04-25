@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CircuitBread0111
-- I’m interested in Robotics
+# I’m CircuitBread0111
+I like robots
 
 <!---
 CircuitBread0111/CircuitBread0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
