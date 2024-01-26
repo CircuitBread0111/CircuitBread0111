@@ -1,6 +1,6 @@
 # I’m CircuitBread0111
-## Computer Engineering Student
-## Intrested in low level embedded systems and robotics
+ Computer Engineering Student
+ Interested in low level embedded systems and robotics
 
 <!---
 CircuitBread0111/CircuitBread0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
